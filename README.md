@@ -16,6 +16,7 @@ One account, one shared event feed, gamified everything.
 | 🎮 128bitlife | Collector hub — a gamified life RPG connecting every 128bit app | 🗺️ Planned |
 | 🏆 [128bitfantasy](https://github.com/Hootywhooo86/128bitfantasy) | Fantasy sports aggregator — Sleeper · Yahoo · Fantrax, separated by sport | 🌐 [Landing page live](https://hootywhooo86.github.io/128bitfantasy/) |
 | 🎵 [128bitmusic](https://github.com/Hootywhooo86/128bitmusic) | Your listening, gamified — Spotify · Apple Music stats, streaks, playlist quests | 🌐 [Landing page live](https://hootywhooo86.github.io/128bitmusic/) |
+| 📊 [128bittracker](https://github.com/Hootywhooo86/128bittracker) | Track anything, streak everything — universal logging + the family timeline | 🌐 [Landing page live](https://hootywhooo86.github.io/128bittracker/) |
 | 🗺️ 128bitmap | Maps & navigation | 🛋️ Benched — it's being naughty |
 
 ---
