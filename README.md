@@ -20,6 +20,7 @@ One account, one shared event feed, gamified everything.
 | 🌐 [pixelbrowser](https://github.com/Hootywhooo86/pixelbrowser) | The web, but chunkier — fast, private, pixel-styled browser with quests + XP | 🌐 [Landing page live](https://hootywhooo86.github.io/pixelbrowser/) |
 | 🕐 [railwaytime](https://github.com/Hootywhooo86/railwaytime) | Widget-first pixel railway clock for the home screen | 🌐 [Landing page live](https://hootywhooo86.github.io/railwaytime/) |
 | 📞 [bitcall](https://github.com/Hootywhooo86/bitcall) | The phone app, but chunkier — pixel dialer, contacts, calls | 🌐 [Landing page live](https://hootywhooo86.github.io/bitcall/) |
+| 📅 [bitcalendar](https://github.com/Hootywhooo86/bitcalendar) | Widget-first pixel calendar — month grid, event dots, up-next | 🌐 [Landing page live](https://hootywhooo86.github.io/bitcalendar/) |
 | 🗺️ 128bitmap | Maps & navigation | 🛋️ Benched — it's being naughty |
 
 ---
