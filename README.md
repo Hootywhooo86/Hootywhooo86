@@ -18,6 +18,8 @@ One account, one shared event feed, gamified everything.
 | 🎵 [128bitmusic](https://github.com/Hootywhooo86/128bitmusic) | Your listening, gamified — Spotify · Apple Music stats, streaks, playlist quests | 🌐 [Landing page live](https://hootywhooo86.github.io/128bitmusic/) |
 | 📊 [128bittracker](https://github.com/Hootywhooo86/128bittracker) | Track anything, streak everything — universal logging + the family timeline | 🌐 [Landing page live](https://hootywhooo86.github.io/128bittracker/) |
 | 🌐 [pixelbrowser](https://github.com/Hootywhooo86/pixelbrowser) | The web, but chunkier — fast, private, pixel-styled browser with quests + XP | 🌐 [Landing page live](https://hootywhooo86.github.io/pixelbrowser/) |
+| 🕐 [railwaytime](https://github.com/Hootywhooo86/railwaytime) | Widget-first pixel railway clock for the home screen | 🌐 [Landing page live](https://hootywhooo86.github.io/railwaytime/) |
+| 📞 [bitcall](https://github.com/Hootywhooo86/bitcall) | The phone app, but chunkier — pixel dialer, contacts, calls | 🌐 [Landing page live](https://hootywhooo86.github.io/bitcall/) |
 | 🗺️ 128bitmap | Maps & navigation | 🛋️ Benched — it's being naughty |
 
 ---
