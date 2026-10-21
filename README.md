@@ -22,6 +22,7 @@ One account, one shared event feed, gamified everything.
 | 📞 [bitcall](https://github.com/Hootywhooo86/bitcall) | The phone app, but chunkier — pixel dialer, contacts, calls | 🌐 [Landing page live](https://hootywhooo86.github.io/bitcall/) |
 | 📅 [bitcalendar](https://github.com/Hootywhooo86/bitcalendar) | Widget-first pixel calendar — month grid, event dots, up-next | 🌐 [Landing page live](https://hootywhooo86.github.io/bitcalendar/) |
 | 🌤️ [bitweather](https://github.com/Hootywhooo86/bitweather) | Widget-first pixel weather — temp, condition icons, alerts | 🌐 [Landing page live](https://hootywhooo86.github.io/bitweather/) |
+| 🚀 [bitlauncher](https://github.com/Hootywhooo86/bitlauncher) | A pixel based experience — the family's pixel home-screen launcher, widgets + quests | 🌐 [Landing page live](https://hootywhooo86.github.io/bitlauncher/) |
 | 🗺️ 128bitmap | Maps & navigation | 🛋️ Benched — it's being naughty |
 
 ---
