@@ -24,6 +24,7 @@ One account, one shared event feed, gamified everything.
 | 🌤️ [bitweather](https://github.com/Hootywhooo86/bitweather) | Widget-first pixel weather — temp, condition icons, alerts | 🌐 [Landing page live](https://hootywhooo86.github.io/bitweather/) |
 | 🚀 [bitlauncher](https://github.com/Hootywhooo86/bitlauncher) | A pixel based experience — the family's pixel home-screen launcher, widgets + quests | 🌐 [Landing page live](https://hootywhooo86.github.io/bitlauncher/) |
 | 💬 [bitmessenger](https://github.com/Hootywhooo86/bitmessenger) | Talk, but chunkier — pixel messaging, stickers, family group + streaks | 🌐 [Landing page live](https://hootywhooo86.github.io/bitmessenger/) |
+| 🏒 [bitsports](https://github.com/Hootywhooo86/bitsports) | Scores, but chunkier — pixel live scores, standings + game-day quests | 🌐 [Landing page live](https://hootywhooo86.github.io/bitsports/) |
 | 🗺️ 128bitmap | Maps & navigation | 🛋️ Benched — it's being naughty |
 
 ---
