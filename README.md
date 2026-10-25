@@ -26,6 +26,7 @@ One account, one shared event feed, gamified everything.
 | 💬 [bitmessenger](https://github.com/Hootywhooo86/bitmessenger) | Talk, but chunkier — pixel messaging, stickers, family group + streaks | 🌐 [Landing page live](https://hootywhooo86.github.io/bitmessenger/) |
 | 🏒 [bitsports](https://github.com/Hootywhooo86/bitsports) | Scores, but chunkier — pixel live scores, standings + game-day quests | 🌐 [Landing page live](https://hootywhooo86.github.io/bitsports/) |
 | 🧮 [128bitcalculator](https://github.com/Hootywhooo86/128bitcalculator) | Math, but chunkier — pixel calculator, history tape + daily math quests | 🌐 [Landing page live](https://hootywhooo86.github.io/128bitcalculator/) |
+| ✉️ [bitmail](https://github.com/Hootywhooo86/bitmail) | Mail, but chunkier — pixel inbox, folders + inbox-zero quests | 🌐 [Landing page live](https://hootywhooo86.github.io/bitmail/) |
 | 🗺️ 128bitmap | Maps & navigation | 🛋️ Benched — it's being naughty |
 
 ---
