@@ -28,6 +28,7 @@ One account, one shared event feed, gamified everything.
 | 🧮 [128bitcalculator](https://github.com/Hootywhooo86/128bitcalculator) | Math, but chunkier — pixel calculator, history tape + daily math quests | 🌐 [Landing page live](https://hootywhooo86.github.io/128bitcalculator/) |
 | ✉️ [bitmail](https://github.com/Hootywhooo86/bitmail) | Mail, but chunkier — pixel inbox, folders + inbox-zero quests | 🌐 [Landing page live](https://hootywhooo86.github.io/bitmail/) |
 | 👛 [bitwallet](https://github.com/Hootywhooo86/bitwallet) | Money, but chunkier — pixel wallet, cards + savings quests | 🌐 [Landing page live](https://hootywhooo86.github.io/bitwallet/) |
+| 🎒 [bitschool](https://github.com/Hootywhooo86/bitschool) | School, but chunkier — pixel timetable, homework quests + grades | 🌐 [Landing page live](https://hootywhooo86.github.io/bitschool/) |
 | 🗺️ 128bitmap | Maps & navigation | 🛋️ Benched — it's being naughty |
 
 ---
